@@ -1,0 +1,11 @@
+# Temp & Binary folders
+tmp
+bin/
+
+# Logs
+logs/
+*.log
+
+# Env files
+.env
+.envrc
